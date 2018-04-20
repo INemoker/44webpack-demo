@@ -2,6 +2,7 @@
 
 ## webpack是什么 ##
 *（webpack就是`npx webpack`,报错，`npm install [module name]`，`npx webpack`再报错，google报错原因，再`npx webpack`的一个循环）*
+
 ![](https://i.imgur.com/V7Ep0cf.gif)
 
 
