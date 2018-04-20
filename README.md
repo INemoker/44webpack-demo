@@ -2,8 +2,7 @@
 
 ## webpack是什么 ##
 *（webpack就是`npx webpack`,报错，`npm install [module name]`，`npx webpack`再报错，google报错原因，再`npx webpack`的一个循环）*
-
-/////////////////////////////////////////////////////////////////////////////////![](https://i.imgur.com/V7Ep0cf.gif)/////////////////////////////////////////////////////////////////////
+![](https://i.imgur.com/V7Ep0cf.gif)
 
 
 webpack可以将项目中已经模块化的各个小JavaScript文件和CSS文件打包成一个JavaScript文件（bundle.js）,然后在html中直接引用这个bundle.js就可以了，同时他也可以加载各种预处理器（例如sass,babel）对代码进行处理
